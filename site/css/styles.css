@@ -46,3 +46,13 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 }		
+
+@media(max-width: 767px)
+{
+	#special-xs
+	{
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+}
